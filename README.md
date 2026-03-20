@@ -1,5 +1,6 @@
 # 強化學習 (Reinforcement Learning) HW1: 網格地圖與價值迭代
 
+![App Screenshot](https://github.com/a123ao/DIC2/blob/main/screenshot.png?raw=true)
 這是一個使用 Python Flask 與 HTML/CSS/JS 開發的互動式網頁應用程式，用於展示強化學習中的網格世界 (Grid World) 環境、策略評估 (Policy Evaluation) 以及價值迭代 (Value Iteration) 演算法。
 
 ## 作業要求與功能實作
